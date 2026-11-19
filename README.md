@@ -61,6 +61,6 @@ jupyter notebook superstore_eda.ipynb
 superstore-sales-eda-python/
 ├── superstore_eda.ipynb   # the analysis
 ├── images/                # exported charts
-├── data/                  # put the dataset here (not committed)
+├── data/                  # dataset
 └── requirements.txt
 ```
